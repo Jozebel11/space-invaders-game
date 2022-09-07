@@ -6,7 +6,7 @@ body {
 
 .grid{
     width: 400px;
-    height: 300px;
+    height: 400px;
     border: black solid 1px;
     display: flex;
     flex-wrap: wrap;
